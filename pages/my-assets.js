@@ -1,4 +1,4 @@
-*/ pages/my-assets.js */
+//  pages/my-assets.js
 import { ethers } from 'ethers'
 import { useEffect, useState } from 'react'
 import axios from 'axios'
