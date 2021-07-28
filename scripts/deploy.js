@@ -15,7 +15,7 @@ async function main() {
   const nft = await NFT.deploy(nftMarket.address);
   await nft.deployed();
   console.log("nft deployed to:", nft.address);
-}
+
   // Hardhat always runs the compile task when running scripts with its command
   // line interface.
   //
