@@ -35,4 +35,4 @@ function Marketplace({ Component, pageProps }) {
   )
 }
 
-export default MyApp
+export default Marketplace
